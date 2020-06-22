@@ -1,2 +1,2 @@
 # umfana
-Repository for the umfana website project
+A Repository that stores the umfana pages while they are in production
